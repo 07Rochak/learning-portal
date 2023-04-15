@@ -1,0 +1,24 @@
+.MainSignUpContainer{
+    background-color: #e1e3e4;
+    height: 89.3vh;
+    display: flex;
+    flex-direction: row;
+}
+.SignUpForm{
+    background-color: white;
+    height: 53vh;
+    padding: 25px 25px 25px 25px;
+    border-radius: 15px;
+    margin-left: 20vw;
+    margin-top: 17vh;
+}
+.FormTitle{
+    font-weight: 600;
+}
+.SignUpField{
+    width: 30vw;
+}
+.signupimg{
+    margin-top: 4vh;
+    width: 23vw;
+}

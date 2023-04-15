@@ -1,0 +1,43 @@
+.centerContainer{
+    position: absolute;
+    height: 89.3vh;
+    width: 100vw;
+}
+.center-content{
+    font-size: 70px;
+    font-family: "Times New Roman", Times, serif;
+    margin-left: 6.5vw;
+    margin-top: 10vh;
+    font-weight: bold;
+    display: inline-block;
+}
+.tag{
+    color: #ffc107;
+    position: absolute;
+    top: 89px;
+}
+.tag2{
+    position: absolute;
+    left: 83px;
+    top: 129px;
+}
+.imgStyle{
+    position: absolute;
+    width: 600px;
+    margin-left: 50px;
+    top: 70px;
+    left: 42vw;
+}
+.tagLine{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tagLine2{
+    position: absolute;
+    font-size: 15px;
+    top: 61vh;
+    left: 6.5vw;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}

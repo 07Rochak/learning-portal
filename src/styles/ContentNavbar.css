@@ -1,0 +1,21 @@
+.LinkName{
+    color: black;
+    transition: transform 0.3s linear;
+    margin-right: 2vw;
+    font-size: 20px;
+}
+.LinkName:hover{
+    transform: scale(1.2);
+    color: black;
+}
+.cardStyle{
+    width: 38rem;
+    margin-left: 15px;
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.horzScroll{
+    display: flex;
+    padding-left: 20px;
+    flex-direction: row;
+}
